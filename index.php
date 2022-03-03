@@ -6,7 +6,7 @@
 <hr>
 <h3>- Comprobacion peso de vehiculos -</h3>
 <hr>
-<FORM ACTION="Practica3.php" METHOD="GET"> 
+<FORM ACTION="index.php" METHOD="GET"> 
     Introduzca el peso del vehiculo:
    <INPUT TYPE="text" NAME="numero1"><br> 
    <br></br>
